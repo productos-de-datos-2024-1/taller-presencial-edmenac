@@ -1,0 +1,73 @@
+2024-04-06 07:42:45,547:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:42:45,548:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:42:45,548:INFO: * Restarting with stat
+2024-04-06 07:42:46,043:WARNING: * Debugger is active!
+2024-04-06 07:42:46,048:INFO: * Debugger PIN: 127-540-454
+2024-04-06 07:50:15,940:INFO:127.0.0.1 - - [06/Apr/2024 07:50:15] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:52:15,840:INFO:127.0.0.1 - - [06/Apr/2024 07:52:15] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:52:29,354:INFO:127.0.0.1 - - [06/Apr/2024 07:52:29] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:57:09,291:INFO:127.0.0.1 - - [06/Apr/2024 07:57:09] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 07:59:54,698:INFO:127.0.0.1 - - [06/Apr/2024 07:59:54] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 08:01:08,598:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:01:08,618:INFO:127.0.0.1 - - [06/Apr/2024 08:01:08] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-06 08:02:00,462:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:02:00,462:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:02:00,462:INFO: * Restarting with stat
+2024-04-06 08:02:00,979:WARNING: * Debugger is active!
+2024-04-06 08:02:00,980:INFO: * Debugger PIN: 127-540-454
+2024-04-06 08:02:07,628:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:02:41,804:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:02:41,806:INFO:127.0.0.1 - - [06/Apr/2024 08:02:41] "POST / HTTP/1.1" 200 -
+2024-04-06 08:03:13,775:INFO: * Detected change in 'C:\\Users\\edmc9\\Documents\\GitHub\\taller-presencial-edmenac\\src\\6a_api_server\\server.py', reloading
+2024-04-06 08:03:13,930:INFO: * Restarting with stat
+2024-04-06 08:03:14,450:WARNING: * Debugger is active!
+2024-04-06 08:03:14,450:INFO: * Debugger PIN: 127-540-454
+2024-04-06 08:03:16,584:INFO: * Detected change in 'C:\\Users\\edmc9\\Documents\\GitHub\\taller-presencial-edmenac\\src\\6a_api_server\\server.py', reloading
+2024-04-06 08:03:16,663:INFO: * Restarting with stat
+2024-04-06 08:03:17,231:WARNING: * Debugger is active!
+2024-04-06 08:03:17,231:INFO: * Debugger PIN: 127-540-454
+2024-04-06 08:03:18,320:INFO: * Detected change in 'C:\\Users\\edmc9\\Documents\\GitHub\\taller-presencial-edmenac\\src\\6a_api_server\\server.py', reloading
+2024-04-06 08:03:18,392:INFO: * Restarting with stat
+2024-04-06 08:03:18,918:WARNING: * Debugger is active!
+2024-04-06 08:03:18,920:INFO: * Debugger PIN: 127-540-454
+2024-04-06 08:03:42,374:INFO: * Detected change in 'C:\\Users\\edmc9\\Documents\\GitHub\\taller-presencial-edmenac\\src\\6a_api_server\\server.py', reloading
+2024-04-06 08:03:42,490:INFO: * Restarting with stat
+2024-04-06 08:03:43,148:WARNING: * Debugger is active!
+2024-04-06 08:03:43,150:INFO: * Debugger PIN: 127-540-454
+2024-04-06 08:03:50,533:INFO: * Detected change in 'C:\\Users\\edmc9\\Documents\\GitHub\\taller-presencial-edmenac\\src\\6a_api_server\\server.py', reloading
+2024-04-06 08:03:50,610:INFO: * Restarting with stat
+2024-04-06 08:03:51,199:WARNING: * Debugger is active!
+2024-04-06 08:03:51,200:INFO: * Debugger PIN: 127-540-454
+2024-04-06 08:03:56,473:INFO: * Detected change in 'C:\\Users\\edmc9\\Documents\\GitHub\\taller-presencial-edmenac\\src\\6a_api_server\\server.py', reloading
+2024-04-06 08:03:56,564:INFO: * Restarting with stat
+2024-04-06 08:03:57,119:WARNING: * Debugger is active!
+2024-04-06 08:03:57,123:INFO: * Debugger PIN: 127-540-454
+2024-04-06 08:03:59,269:INFO: * Detected change in 'C:\\Users\\edmc9\\Documents\\GitHub\\taller-presencial-edmenac\\src\\6a_api_server\\server.py', reloading
+2024-04-06 08:03:59,340:INFO: * Restarting with stat
+2024-04-06 08:03:59,960:WARNING: * Debugger is active!
+2024-04-06 08:03:59,963:INFO: * Debugger PIN: 127-540-454
+2024-04-06 08:04:04,179:INFO: * Detected change in 'C:\\Users\\edmc9\\Documents\\GitHub\\taller-presencial-edmenac\\src\\6a_api_server\\server.py', reloading
+2024-04-06 08:04:04,250:INFO: * Restarting with stat
+2024-04-06 08:04:04,782:WARNING: * Debugger is active!
+2024-04-06 08:04:04,782:INFO: * Debugger PIN: 127-540-454
+2024-04-06 08:18:33,849:INFO: * Detected change in 'C:\\Users\\edmc9\\Documents\\GitHub\\taller-presencial-edmenac\\src\\6a_api_server\\client_example.py', reloading
+2024-04-06 08:18:34,041:INFO: * Restarting with stat
+2024-04-06 08:18:34,868:WARNING: * Debugger is active!
+2024-04-06 08:18:34,868:INFO: * Debugger PIN: 127-540-454
+2024-04-06 08:18:41,198:INFO: * Detected change in 'C:\\Users\\edmc9\\Documents\\GitHub\\taller-presencial-edmenac\\src\\6a_api_server\\client_example.py', reloading
+2024-04-06 08:18:41,263:INFO: * Restarting with stat
+2024-04-06 08:18:41,834:WARNING: * Debugger is active!
+2024-04-06 08:18:41,836:INFO: * Debugger PIN: 127-540-454
+2024-04-06 08:20:17,970:INFO: * Detected change in 'C:\\Users\\edmc9\\Documents\\GitHub\\taller-presencial-edmenac\\src\\6a_api_server\\client_example.py', reloading
+2024-04-06 08:20:18,080:INFO: * Restarting with stat
+2024-04-06 08:20:18,666:WARNING: * Debugger is active!
+2024-04-06 08:20:18,667:INFO: * Debugger PIN: 127-540-454
+2024-04-06 08:20:24,464:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:20:24,899:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:20:24,899:INFO:127.0.0.1 - - [06/Apr/2024 08:20:24] "POST / HTTP/1.1" 200 -
+2024-04-06 08:22:10,670:INFO: * Detected change in 'C:\\Users\\edmc9\\Documents\\GitHub\\taller-presencial-edmenac\\src\\6a_api_server\\client_example.py', reloading
+2024-04-06 08:22:10,869:INFO: * Restarting with stat
+2024-04-06 08:22:11,400:WARNING: * Debugger is active!
+2024-04-06 08:22:11,408:INFO: * Debugger PIN: 127-540-454
