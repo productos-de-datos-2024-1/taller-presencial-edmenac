@@ -19,8 +19,7 @@
 #
 # Para lanzar la aplicación web que consume el servicio se ejecuta:
 #
-# $ docker run --network=mynetwork --rm -it --name=api-client -p 5002:5000 -v "$PWD"/datalake:/datalake edmenac/api-client:0.1
-# $ docker run --network=mynetwork --rm -it --name=api-client -p 5002:5000 -v "C:\Users\edmc9\Documents\GitHub\taller-presencial-edmenac\datalake:/datalake" edmenac/api-client:0.1
+# $ docker run --network=mynetwork --rm -it --name=api-client -p 5002:5000 -v "%cd%/datalake:/datalake" edmenac/api-client:0.1
 #
 
 # Definición de la imagen base
